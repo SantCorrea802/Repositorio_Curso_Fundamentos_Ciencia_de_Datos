@@ -10,6 +10,8 @@ Durante el desarrollo de este proyecto se hace un análisis de los datos brindad
 
 El repositorio no solo contiene los entregables de este proyecto, sino tambien la siguiente estructura:
 
+
+```
 Repositorio_Curso_Fundamentos_Ciencia_Datos/
 ├── 📁 articulo/
 ├── 📁 datos/  # Datasets del proyecto y otras actividades.
@@ -26,7 +28,7 @@ Repositorio_Curso_Fundamentos_Ciencia_Datos/
 │   ├── sp_3_santiago_correa_marulanda.ipynb
 │   └── sp_4_santiago_correa_marulanda.ipynb
 └── 📄 README.md
-
+```
 
 El dataset seleccionado para el proyecto se encuentra ubicado en la caerpeta "datos" y corresponde a "Earthquakes_South_Asia.csv".
 
